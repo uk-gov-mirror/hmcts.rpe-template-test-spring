@@ -5,7 +5,7 @@ metadata:
   description: backstage template test
   annotations:
     # This must match folder-name/job-name in Jenkins.
-    jenkins.io/github-folder: 'HMCTS_rpe/rpe-template-test-spring'
+    jenkins.io/github-folder: 'HMCTS_PLATFORM/rpe-template-test-spring'
     github.com/project-slug: 'hmcts/rpe-template-test-spring'
   tags:
     - java
